@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong", "PingPong\PingPong.csproj", "{D08F16D4-C914-44F8-B991-A7CBC83041EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{2D1B7B92-98D5-4B7C-83A4-B50CB784892C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08F16D4-C914-44F8-B991-A7CBC83041EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08F16D4-C914-44F8-B991-A7CBC83041EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08F16D4-C914-44F8-B991-A7CBC83041EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08F16D4-C914-44F8-B991-A7CBC83041EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D1B7B92-98D5-4B7C-83A4-B50CB784892C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1B7B92-98D5-4B7C-83A4-B50CB784892C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1B7B92-98D5-4B7C-83A4-B50CB784892C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1B7B92-98D5-4B7C-83A4-B50CB784892C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\chip.MSU\Developer\PingPong\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\chip.MSU\Developer\PingPong\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\chip.MSU\Developer\PingPong\UnitTests\bin\Debug\PingPong.dll
+C:\Users\chip.MSU\Developer\PingPong\UnitTests\bin\Debug\PingPong.pdb
+C:\Users\chip.MSU\Developer\PingPong\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\chip.MSU\Developer\PingPong\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\chip.MSU\Developer\PingPong\UnitTests\obj\Debug\UnitTests.pdb
